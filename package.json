@@ -1,0 +1,11 @@
+{
+    "name": "pulumi-testing",
+    "main": "index.ts",
+    "devDependencies": {
+        "@types/node": "^18"
+    },
+    "dependencies": {
+        "@pulumi/aws": "^6.19.0",
+        "@pulumi/pulumi": "^3.0.0"
+    }
+}
